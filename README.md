@@ -6,7 +6,7 @@ Udemy - ML with TensorFlow
 * We want to focus on customers who are likely to come back and buy again
 * This model can identify the most important metrics for a customer to come back again  
 
-After creating the model, I could achieve test accuracy of 84.60%. The dataset is not sufficient, therefore achieving higher accuracy is higly unlikely; however the model still gives a good insight about whether a customer will buy again or not.   
+After creating the model, I could achieve test accuracy of 84.60%. The dataset is not sufficient, therefore achieving higher accuracy is highly unlikely; however the model still gives a good insight about whether a customer will buy again or not.   
 Here are my results from playing with the hyperparameters:
 
 hidden_layer_size= 50; test accur = 81.70  
